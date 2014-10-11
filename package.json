@@ -1,0 +1,15 @@
+{
+  "name": "node-lru-cache",
+  "version": "1.0.0",
+  "description": "a simple fixed size LRU cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Ken Woodruff <ken.woodruff@gmail.com>",
+  "repository": { "url": "https://github.com/femto113/node-lru-cache.git" },
+  "license": "MIT",
+  "dependencies": {
+    "heap": "^0.2.5"
+  }
+}
